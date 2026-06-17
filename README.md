@@ -47,12 +47,10 @@ en orden:
 2. Instalar las dependencias.
 3. Ejecutar los notebooks en el orden indicado en la tabla anterior.
 
+Los modelos entrenados, scalers y figuras se generan automáticamente al ejecutar los notebooks en orden y se guardan en datasets/prepared/. No se incluyen en el repositorio por su tamaño.
+
 ## Datos
 
 El dataset principal (`dataset_clasificacion.csv`) se incluye en la carpeta
 `datasets/`. Los modelos entrenados y los resultados intermedios se generan
 al ejecutar los notebooks.
-
-## Licencia
-
-[MIT, o el texto que corresponda según tu elección]
